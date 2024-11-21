@@ -11,15 +11,15 @@ To make DreamTech one of the greatest companies of the century, fulfilling my an
 
 🔨 Projects I've Worked On:
 
-Password Generator
-KBC (Quiz Game Simulation)
-Flappy Bird (GUI Game)
+Password Generator,
+KBC (Quiz Game Simulation),
+Flappy Bird (GUI Game),
 App Opener & Closer
 
 🌱 Currently Learning:
-API integration
-Advanced Python concepts
-Building intelligent and interactive systems
+API integration,
+Advanced Python concepts,
+Building intelligent and interactive systems,
 
 📌 Let's Connect:
 Open to collaboration and learning opportunities to grow together!
